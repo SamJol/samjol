@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif)](https://samjol.github.io/portfolio/)
+[![MasterHead](https://samjol.github.io/portfolio/files/github-banner.gif)](https://samjol.github.io/portfolio/)
 <h1 align="center">Salut 👋, Je m'appelle Samuel Joly</h1>
 <h3 align="center">Développeur web front-end situé à Montréal</h3>
 <br>
@@ -8,8 +8,6 @@
 - 👨‍💻 Plus d'informations sont disponibles sur mon **[portfolio](https://samjol.github.io/portfolio/)**
 
 - 📫 Vous pouvez me contacter au **samuel.joly2@gmail.com** ou sur **[LinkedIn](https://linkedin.com/in/samuel-joly)**
-
-- ⚡ Fun fact : Je possède un tableau d'Yves Corbeil chez moi
 
 <br>
 

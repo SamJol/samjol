@@ -3,7 +3,7 @@
 <h3 align="center">Développeur web front-end situé à Montréal</h3>
 <br>
 
-<p>Développeur web front-end comptant 4+ ans d’expérience en développement web et spécialisé en création de site web WordPress. Passionné par le développement d’interfaces utilisateur intéractives, conviviales, optimisées, attrayantes, réactives et riches en fonctionnalités. Adepte de la collaboration, de la résolution de problèmes, d’optimisation et de l’application des bonnes pratiques de l’industrie afin de livrer le meilleur résultat possible.</p>
+<p>Développeur web comptant 6+ ans d’expérience en développement web et spécialisé en création de site web WordPress. Passionné par le développement d’interfaces utilisateur intéractives, conviviales, optimisées, attrayantes, réactives et riches en fonctionnalités. Adepte de la collaboration, de la résolution de problèmes, d’optimisation et de l’application des bonnes pratiques de l’industrie afin de livrer le meilleur résultat possible.</p>
 
 - 👨‍💻 Plus d'informations sont disponibles sur mon **[portfolio](https://samjol.github.io/portfolio/)**
 
